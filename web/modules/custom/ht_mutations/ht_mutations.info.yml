@@ -1,0 +1,5 @@
+name: HT Mutations
+type: module
+description: 'Enable mutations for Drupal GraphQL module.'
+package: Custom
+core_version_requirement: ^8.8 || ^9
